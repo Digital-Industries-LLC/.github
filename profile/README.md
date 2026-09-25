@@ -114,18 +114,18 @@ Digital Industries architectures leverage the industry's premier foundation mode
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="20%"><img src="src/assets/img/clients/amazon-bedrock.png" height="36" alt="Amazon Bedrock"><br><sub><b>Amazon Bedrock</b></sub></td>
-      <td align="center" width="20%"><img src="src/assets/img/clients/microsoft-foundry.png" height="36" alt="Microsoft AI Foundry"><br><sub><b>Azure AI Foundry</b></sub></td>
-      <td align="center" width="20%"><img src="src/assets/img/clients/openai.png" height="36" alt="OpenAI"><br><sub><b>OpenAI</b></sub></td>
-      <td align="center" width="20%"><img src="src/assets/img/clients/anthropic.png" height="36" alt="Anthropic"><br><sub><b>Anthropic</b></sub></td>
-      <td align="center" width="20%"><img src="src/assets/img/clients/nvidia.png" height="36" alt="NVIDIA"><br><sub><b>NVIDIA</b></sub></td>
+      <td align="center" width="20%"><img src="assets/img/clients/amazon-bedrock.png" height="36" alt="Amazon Bedrock"><br><sub><b>Amazon Bedrock</b></sub></td>
+      <td align="center" width="20%"><img src="assets/img/clients/microsoft-foundry.png" height="36" alt="Microsoft AI Foundry"><br><sub><b>Azure AI Foundry</b></sub></td>
+      <td align="center" width="20%"><img src="assets/img/clients/openai.png" height="36" alt="OpenAI"><br><sub><b>OpenAI</b></sub></td>
+      <td align="center" width="20%"><img src="assets/img/clients/anthropic.png" height="36" alt="Anthropic"><br><sub><b>Anthropic</b></sub></td>
+      <td align="center" width="20%"><img src="assets/img/clients/nvidia.png" height="36" alt="NVIDIA"><br><sub><b>NVIDIA</b></sub></td>
     </tr>
     <tr>
-      <td align="center" width="20%"><img src="src/assets/img/clients/amd.png" height="36" alt="AMD"><br><sub><b>AMD</b></sub></td>
-      <td align="center" width="20%"><img src="src/assets/img/clients/aws-logo.png" height="36" alt="AWS"><br><sub><b>Amazon Web Services</b></sub></td>
-      <td align="center" width="20%"><img src="src/assets/img/clients/ms_azure_v2.png" height="36" alt="Microsoft Azure"><br><sub><b>Microsoft Azure</b></sub></td>
-      <td align="center" width="20%"><img src="src/assets/img/clients/Azure-DevOps-Logo.png" height="36" alt="Azure DevOps"><br><sub><b>Azure DevOps</b></sub></td>
-      <td align="center" width="20%"><img src="src/assets/img/clients/github.png" height="36" alt="GitHub"><br><sub><b>GitHub Enterprise</b></sub></td>
+      <td align="center" width="20%"><img src="assets/img/clients/amd.png" height="36" alt="AMD"><br><sub><b>AMD</b></sub></td>
+      <td align="center" width="20%"><img src="assets/img/clients/aws-logo.png" height="36" alt="AWS"><br><sub><b>Amazon Web Services</b></sub></td>
+      <td align="center" width="20%"><img src="assets/img/clients/ms_azure_v2.png" height="36" alt="Microsoft Azure"><br><sub><b>Microsoft Azure</b></sub></td>
+      <td align="center" width="20%"><img src="assets/img/clients/Azure-DevOps-Logo.png" height="36" alt="Azure DevOps"><br><sub><b>Azure DevOps</b></sub></td>
+      <td align="center" width="20%"><img src="assets/img/clients/github.png" height="36" alt="GitHub"><br><sub><b>GitHub Enterprise</b></sub></td>
     </tr>
   </table>
 </div>
